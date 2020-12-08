@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'com.happywynne'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile(project(":spring-beans"))
+    compile(project(":spring-core"))
+    compile(project(":spring-context"))
+    compile(project(":spring-aop"))
+//    compile(project(":spring-aspect"))
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
