@@ -1,4 +1,0 @@
-com/happywynne/spring/travel/MyTestBean.java
- com.happywynne.spring.travel.MyTestBean
-com/happywynne/spring/travel/TravelStart.java
- com.happywynne.spring.travel.TravelStart

@@ -1,2 +1,0 @@
-com/happywynne/spring/travel/AppTest.java
- com.happywynne.spring.travel.AppTest

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.happywynne.spring.travel.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-08T08:07:13" hostname="Wynne-MacBook-Pro.local" time="0.45">
-  <properties/>
-  <testcase name="MyTestBeanTest()" classname="com.happywynne.spring.travel.AppTest" time="0.45"/>
-  <system-out><![CDATA[ChenHao
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

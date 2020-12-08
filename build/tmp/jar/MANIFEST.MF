@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: spring-travel
-Automatic-Module-Name: spring.travel
-Implementation-Version: 5.3.2-SNAPSHOT
-Created-By: 1.8.0_231 (Oracle Corporation)
-
